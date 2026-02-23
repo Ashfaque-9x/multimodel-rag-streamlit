@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+unstructured
+unstructured[all-docs]
+unstructured[local-inference]
+pillow
+lxml
+python-dotenv
+tiktoken
+tesseract
+reportlab
+streamlit
+faiss-cpu
